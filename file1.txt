@@ -3,3 +3,6 @@ First file created with just this line.
 Created a branch branch_20140829 and added this line
 
 Added this line to branch branch_20140829_v2 after branching it from branch_20140829
+
+Modified the first line by removing the word "just"
+
