@@ -3,3 +3,8 @@ Created a branch branch_20140829 and added this line from the file in branch_201
 Added this line to the master after creating a branch branch_20140829
 
 Added this line to master after merging branch branch_20140829
+Created a branch branch_20140829 and added this line
+
+Added this line to branch branch_20140829_v2 after branching it from branch_20140829
+Modified the first line by removing the word "just"
+
