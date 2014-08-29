@@ -12,3 +12,6 @@ Adding this sentence before merging with branch_20140829_v3
 Really modified the first line by removing the word "just" which wasn't done earlier.
 
 Resolved conflicts, added this line and about to merge now
+
+Created another file file2.txt and added this line after creating branch 20140829_v22 from branch_20140829
+
