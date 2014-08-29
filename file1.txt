@@ -8,3 +8,4 @@ Created a branch branch_20140829 and added this line
 Added this line to branch branch_20140829_v2 after branching it from branch_20140829
 Modified the first line by removing the word "just"
 
+Adding this sentence before merging with branch_20140829_v3
